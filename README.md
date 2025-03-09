@@ -1,9 +1,15 @@
 # Votee_AI Interview
-Here is my coding test reuslt to Votee AI interview. Attached with my answer. 
 
-The solution contains 3 fundmental process for handling a simple word puzzle prediction problem.
-1. Data collection
-2. Data pre-processing and splitting with standard chunk size
-3. The model has been considered for 2 task -- Masked prediction or generation. To represent soltuion for both side, I showcased the answer of RoBERT-base and GPT-2. They are the most classic model for encoder-only and decoder-only Language Model.
+This document contains my coding test results for the Votee AI interview, along with my answers.
 
-In the last, the task presents both methods. Thats all, thank you. Later I may use ChatGPT to decorate the readme.md, I wont change any answer of code after I closed the Zoom meeting.
+The solution encompasses three fundamental processes for addressing a simple word puzzle prediction problem:
+
+1. **Data Collection**
+2. **Data Preprocessing and Splitting** with a standard chunk size
+3. **Model Consideration** for two tasks:
+   - **Masked Prediction** -- Encoder-only RoBERTa-base
+   - **Generation** -- Decoder-only GPT-2
+
+To represent solutions for both tasks, I showcased the results of RoBERTa-base and GPT-2, which are classic models for encoder-only and decoder-only language modeling, respectively.
+
+In conclusion, the task illustrates both methods. Thank you for your attention. I may later use ChatGPT to enhance this README.md, but I will not change any code answers after closing the Zoom meeting.
